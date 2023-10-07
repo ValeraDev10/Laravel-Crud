@@ -1,0 +1,33 @@
+body{
+    background-color: #e5e1cd;
+}
+th{
+	color: #6a644d;
+	font-family: 'Aldrich', sans-serif;
+	font-size: 15px;
+	/*border: 3px solid #6a644d;*/
+	text-align: left;
+	margin: 15px;
+	border-bottom: 5px solid #c8c5b6;
+	border-top: 1px solid #c8c5b6;
+}
+a{
+	background-color: #c8c5b6;
+	color: #6a644d;
+	font-family: 'Electrolize', sans-serif;
+	font-size: 10px;
+	border: 3px solid #6a644d;
+	margin: 5px;
+}
+button{
+	background-color: #c8c5b6;
+	color: #6a644d;
+	font-family: 'Electrolize', sans-serif;
+	font-size: 10px;
+	border: 3px solid #6a644d;
+	margin: 5px;
+}
+#M{
+    font-family: 'Electrolize', sans-serif;
+    font-size: 20px;
+}
